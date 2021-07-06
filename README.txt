@@ -1,4 +1,6 @@
-chnage made at css-assignment brnach/*this is line added in master*/
+
+chnage made at css-assignment brnach///comment says that readfile lin1 chnaged in js
+>>>>>>> js-assignment
 About section 0 assignment:
 basic command like:-
 1.status ////this comment is added to make chnage at master branch.
